@@ -3,7 +3,7 @@
 ## What is this?
 An authentication API with JWTs using Express, TypeScript, and Zod.
 
-This version uses MongoDB/Mongoose/TypeGoose for the database. I will also build the same app but using Postgres/Prisma.
+This version uses MongoDB/Mongoose/TypeGoose for the database. I also built the same app but using Postgres/Prisma. You can find that [here](https://github.com/c-ehrlich/auth-api-prisma).
 
 ## What did I learn?
 The main point was to build a well structured boilerplate that I could base future projects on. I believe it was quite successful in that regard.
